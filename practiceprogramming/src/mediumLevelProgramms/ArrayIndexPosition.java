@@ -3,8 +3,8 @@ package mediumLevelProgramms;
 public class ArrayIndexPosition {
 	public static void main(String[] args) {
 		
-	int a[] = {1,2,3,4,5};
-	int b[] = {2,3};
+	int a[] = {4,5,6,7,8};
+	int b[] = {6,7};
 	int index = 0;
 	int count =0;
 	
