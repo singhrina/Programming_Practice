@@ -2,8 +2,8 @@ package mediumLevelProgramms;
 
 import java.util.Scanner;
 
-public class PerfactNo {
-	public static void checkPefractNo() {
+public class PerfectNo {
+	public static void checkPefrectNo() {
 		int n, sum = 0;
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter the  no. to check :");
@@ -25,7 +25,7 @@ public class PerfactNo {
 		return x;
 	}
 	public static void main(String[] args) {
-		PerfactNo.checkPefractNo();
+		PerfectNo.checkPefrectNo();
 	}
 
 }
