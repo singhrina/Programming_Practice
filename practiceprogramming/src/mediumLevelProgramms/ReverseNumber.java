@@ -17,6 +17,6 @@ public class ReverseNumber {
 			originalNo = originalNo / 10;
 		}
 		System.out.println("reversr of the number is : " + reverseNo);
+		
 	}
-
 }
